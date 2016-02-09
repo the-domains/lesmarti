@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LesMarti]]></title>
         <description><![CDATA[LesMarti]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lesmarti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 21:37:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 21:58:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lesmarti/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da8c2d71-3632-46cb-a6b5-471cfb263109.jpg" alt="" title="">]]></description>
-            <link>undefined532f23d5-42a2-403f-85da-357cda4b958d/index.html</link>
+            <description><![CDATA[<p>The road starts somewhere and ends nowhere!</p>]]></description>
+            <link>https://thegrid.ai/lesmarti/532f23d5-42a2-403f-85da-357cda4b958d/index.html</link>
             <guid isPermaLink="false">532f23d5-42a2-403f-85da-357cda4b958d</guid>
-            <pubDate>Tue, 09 Feb 2016 21:32:15 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 21:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
