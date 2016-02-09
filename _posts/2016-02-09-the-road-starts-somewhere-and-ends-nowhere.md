@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:1693f4bb-65ac-4d9f-9e5a-0199f8549979'
 author: []
-datePublished: '2016-02-09T22:25:13.647Z'
+datePublished: '2016-02-09T22:28:00.544Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: 'The road starts somewhere and ends nowhere!'
-dateModified: '2016-02-09T22:23:57.545Z'
+dateModified: '2016-02-09T22:27:22.210Z'
 sourcePath: _posts/2016-02-09-the-road-starts-somewhere-and-ends-nowhere.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: the-road-starts-somewhere-and-ends-nowhere/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
