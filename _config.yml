@@ -1,0 +1,28 @@
+name: LesMarti
+favicon: null
+layout_spectrum: 0.9322732407599688
+typography_spectrum: 0.3022930836305022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.03928160876967013
+  lightness: 0.7768990502227098
+  saturation: 0.04857500619255006
+  rhythmicContrast: 0.7129385233856738
+purpose: []
