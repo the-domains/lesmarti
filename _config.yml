@@ -1,6 +1,6 @@
 name: LesMarti
 favicon: null
-layout_spectrum: 0.00067
+layout_spectrum: 1
 typography_spectrum: 0.10328
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#bacedc'
-    - '#262626'
-    - '#716754'
-    - '#ecb50b'
-    - '#165567'
+    - '#bebebe'
+    - '#8a8a8a'
+    - '#616161'
+    - '#161616'
+    - '#f0f0f0'
   brandStrength: 0.5
-  lightness: 0.7768990502227098
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.7129385233856738
+  rhythmicContrast: 0.5
 purpose: []
