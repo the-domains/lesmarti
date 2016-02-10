@@ -3,13 +3,13 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T21:51:31.766Z'
-dateModified: '2016-02-10T21:47:42.347Z'
+datePublished: '2016-02-10T23:03:55.047Z'
+dateModified: '2016-02-10T23:03:51.035Z'
 author: []
-title: 'The road starts somewhere and ends nowhere!'
+title: 'Adventure to Utah & The Grand Canyon'
 sourcePath: _posts/2016-02-09-the-road-starts-somewhere-and-ends-nowhere.md
 published: true
 authors: []
