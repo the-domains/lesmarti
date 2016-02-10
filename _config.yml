@@ -1,28 +1,40 @@
-name: LesMarti
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.10328
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.04857500619255006
+  brandStrength: 0.6039426
+  lightness: 0.7768990502227098
   brandColors:
     - '#bebebe'
     - '#8a8a8a'
     - '#616161'
     - '#161616'
     - '#f0f0f0'
-  brandStrength: 0.125
-  lightness: 0.7768990502227098
-  saturation: 0.04857500619255006
   rhythmicContrast: 0.7129385233856738
-purpose: []
+typography_spectrum: 0.5896057
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: LesMarti
