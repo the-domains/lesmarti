@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:1693f4bb-65ac-4d9f-9e5a-0199f8549979'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-10T19:21:33.222Z'
-dateModified: '2016-02-10T19:14:08.301Z'
+datePublished: '2016-02-10T19:34:51.874Z'
+dateModified: '2016-02-10T19:34:40.624Z'
 author: []
 title: 'The road starts somewhere and ends nowhere!'
 sourcePath: _posts/2016-02-09-the-road-starts-somewhere-and-ends-nowhere.md
