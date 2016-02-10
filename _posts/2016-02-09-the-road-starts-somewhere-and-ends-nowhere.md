@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:1693f4bb-65ac-4d9f-9e5a-0199f8549979'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-10T19:34:51.874Z'
-dateModified: '2016-02-10T19:34:40.624Z'
+datePublished: '2016-02-10T21:51:31.766Z'
+dateModified: '2016-02-10T21:47:42.347Z'
 author: []
 title: 'The road starts somewhere and ends nowhere!'
 sourcePath: _posts/2016-02-09-the-road-starts-somewhere-and-ends-nowhere.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: the-road-starts-somewhere-and-ends-nowhere/index.html
 _context: 'http://schema.org'
 _type: Article
 
