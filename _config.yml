@@ -1,11 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: LesMarti
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.09134
+title: Travel / Documentary/ Lifestyle
 collections:
   - index:
       path: /
@@ -18,23 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.3125
-  rhythmicContrast: 0.5
   brandColors:
     - '#2a2a2a'
     - '#60c67d'
     - '#757575'
     - '#e3e7e6'
     - '#00c2dd'
+  brandStrength: 0.3125
   lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
-favicon: null
-name: LesMarti
-typography_spectrum: 0.09134
