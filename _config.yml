@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.3125
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#99A4B3'
     - '#788799'
     - '#F2F3F2'
     - '#3A4A64'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.8847073
 cta:
   bucket: null
   version: null
@@ -30,8 +30,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: LesMarti Photography
 favicon: null
+name: LesMarti Photography
 opengraph:
   image: null
   type: null
