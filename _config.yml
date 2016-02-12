@@ -1,20 +1,7 @@
-name: LesMarti Photography
+name: LesMarti
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.09134
-title: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.5616
 cta:
   domain: null
   bucket: null
@@ -29,12 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#99A4B3'
-    - '#788799'
-    - '#F2F3F2'
-    - '#3A4A64'
+    - '#2a2a2a'
+    - '#60c67d'
+    - '#757575'
+    - '#e3e7e6'
+    - '#00c2dd'
   brandStrength: 0.3125
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.8847073
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
