@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Leaving footprints & giving thanks to all that we meet on our rad adventures!'
+title: The road starts somewhere and ends nowhere
 cta:
   domain: null
   bucket: null
